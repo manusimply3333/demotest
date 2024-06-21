@@ -12,3 +12,6 @@ def test3():
     print("This is Test3, it will run for loop")
     for i in range(0,10):
         print(f"The value is {i}")
+
+def test4():
+    print("This is additional test added")
